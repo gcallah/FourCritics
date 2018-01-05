@@ -87,3 +87,7 @@ h5 {
     color: #ecb;
 }
 
+blockquote {
+    margin: 10px 64px 10px 64px;
+    font-size: 18px;
+}
